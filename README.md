@@ -84,5 +84,6 @@ print("hello")
 ## 👨‍💻 Author
 
 Student Project – AI Powered Code Fixer using IBM Granite Model
-
+https://github.com/yourusername/syntax-surgeon
+<img src="screenshot.png" width="800">
 
